@@ -1,0 +1,5 @@
+{
+  "name": "Copy of My Learning Roadmap Tracker",
+  "description": "A personalized learning tracker and study dashboard built with React and Tailwind CSS. This application demonstrates a comprehensive frontend UI with mocked backend interactions using local storage for data persistence, showcasing features like weekly schedules, study timers, progress tracking, project management, and more.",
+  "requestFramePermissions": []
+}
